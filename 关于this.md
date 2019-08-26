@@ -66,7 +66,7 @@ obj1.say.call(obj2);
 < test2
 ```
 ### es6 箭头函数
-this 指向外层的引用，下面的例子中obj的外层是window，所以打印出test。
+this 指向取决于外层的作用于，下面的例子中obj的外层是window，所以打印出test。
 ```
 window.name = 'test'
 var obj = {

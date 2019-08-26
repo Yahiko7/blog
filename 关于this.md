@@ -2,7 +2,6 @@
 面向对象语言中 this 表示当前对象的一个引用。
 但在 JavaScript 中 this 不是固定不变的，它会随着执行环境的改变而改变。this的指向取决于函数的调用方式，谁调用它就指向谁。
 ## 如何判断this ？
-
 ### 默认绑定 -- 独立函数调用
 指向全局window或者undefined。严格模式（strict mode）， this为undefined，非严格模式下，this为window。
 

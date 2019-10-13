@@ -8,6 +8,6 @@
 ### [执行上下文及其重要性](/执行上下文及其重要性.md)
 ### [圣杯布局和双飞翼布局](/圣杯布局和双飞翼布局.md)
 ### [关于gpu加速](/关于gpu加速.md)
-### [使用 docker + Jenkins + nginx进行web自动化部署.md](/使用 docker + Jenkins + nginx进行web自动化部署.md)
+### [使用docker+Jenkins+nginx进行web自动化部署](/使用docker+Jenkins+nginx进行web自动化部署.md)
 ### [单元测试、TDD和BDD区别?](/单元测试、TDD和BDD区别?.md)
 ### [5步法让TDD变得简单](/5步法让TDD变得简单.md)

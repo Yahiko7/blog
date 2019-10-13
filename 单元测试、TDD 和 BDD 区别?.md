@@ -93,3 +93,5 @@ describe('Counter', function() {
 
 ## 总结
 单元测试是做测试的基础。测试驱动开发讨论的是什么时候写测试的。行为驱动开发告诉我们测试用例应该怎么做好。尽管你可以单独使用它们，但是你应该将它们组合起来以获得最佳结果，因为它们彼此很好地相辅相成。
+
+原文地址：[What’s the difference between Unit Testing, TDD and BDD](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/) 

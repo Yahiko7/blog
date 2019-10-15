@@ -9,5 +9,5 @@
 #### [圣杯布局和双飞翼布局](/圣杯布局和双飞翼布局.md)
 #### [关于gpu加速](/关于gpu加速.md)
 #### [使用docker+Jenkins+nginx进行web自动化部署](/使用docker+Jenkins+nginx进行web自动化部署.md)
-#### [单元测试、TDD和BDD区别?](/单元测试、TDD和BDD区别?.md)
-#### [5步法让TDD变得简单](/5步法让TDD变得简单.md)
+#### [[译]单元测试、TDD和BDD区别](/[译]单元测试、TDD和BDD区别.md)
+#### [[译]5步法让TDD变得简单](/[译]5步法让TDD变得简单.md)
